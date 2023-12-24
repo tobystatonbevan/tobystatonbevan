@@ -1,4 +1,4 @@
-Hello. I’m @tobystatonbevan. I am a cyber security academic, with an interest in risk assessment and security testing. I work mostly in Python for data analysis, and I am looking to upskill and security test web development tecniques using Django. 
+Hello. I’m @tobystatonbevan. I am a cyber security academic, with an interest in risk assessment and security testing. I work mostly in Python for data analysis, however I am looking to develop educational tools in Python for students to learn and test cyber security practices. 
 
 <!---
 tobystatonbevan/tobystatonbevan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
